@@ -1,5 +1,10 @@
 # Credit-Risk-Assessment-Using-ML
 
+# Project Goal
+Financial institutions like banks need to figure out if a borrower might not pay back their loan or credit card bill. This project uses machine learning (ML) to analyze this risk using real-world data from American Express.
+
+The goal was to find the best model for predicting who might default (not pay back) and identify which factors (like credit score or spending habits) are most important.
+
 **Dataset**
 
 The data used in this project comes from the "AmExpert 2021 CODELAB - Machine Learning Hackathon" competition hosted on the online coding platform, HackerEarth. The dataset can be accessed here, belongs to American Express, a company that provides customers with various payment products and services.
