@@ -7,8 +7,10 @@ The **goal** was to find the best model for predicting who might default (not pa
 
 **Dataset**
 
-The data used in this project comes from the **"AmExpert 2021 CODELAB - Machine Learning Hackathon"** competition hosted on the online coding platform, HackerEarth.  
-The original dataset consisted of 45528 rows and 19 columns, but for this study, a subset of 30000 rows and 19 columns was used. 
+The data used in this project comes from the **"AmExpert 2021 CODELAB - Machine Learning Hackathon"** competition hosted on the online coding platform, HackerEarth.
+
+The original dataset consisted of 45528 rows and 19 columns, but for this study, a subset of 30000 rows and 19 columns was used.
+
 The **target variable** of our data frame is **“credit_card_default”**, which is a binary variable, whose values are 0 and 1.
 
 **Dataset can be download at: https://www.kaggle.com/datasets/pradip11/amexpert-codelab-2021**
@@ -30,7 +32,7 @@ F1-Score: 91% (balancing precision and recall)
 
 AUC: 92% (ability to distinguish between defaulters and non-defaulters)
 
-Other models also did well but were slightly less accurate:
+**Other models also did well but were slightly less accurate:**
 
 Logistic Regression: 94.6%
 
