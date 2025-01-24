@@ -38,4 +38,14 @@ Logistic Regression: 94.6%
 
 Random Forest: 96.5%
 
+Decision Tree: 96.76%
+
 CatBoost: 96.8%
+
+XGBoost: 97%
+
+LightGBM: 96.64%
+
+KNN: 96.83%
+
+
